@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Riccardo126
+- 👀 I’m interested in: videogames and music
+- 🌱 I’m currently learning: C# and .NET developing
+- 💞️ I’m looking to: collaborate on new interesting projects
+- 📫 How to reach me: riccardopassacantando@gmail.com
