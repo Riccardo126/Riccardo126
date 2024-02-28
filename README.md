@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riccardo126, in a C# and .NET developer
 - 👀 I’m interested in: videogames, physical training and music
 - 🌱 I’m currently learning: IoT and Cloud 
-- 💞️ I’m looking to: collaborate on new interesting projects
+- 💞️ I’m looking to: collaborate on new interesting projects and learn new things
 - 📫 How to reach me: riccardopassacantando@gmail.com
